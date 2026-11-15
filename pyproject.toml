@@ -8,7 +8,7 @@ dynamic = ["version"]
 description = "Rolling Lookahead Optimal Classification Trees"
 readme = "README.md"
 license = "GPL-3.0-or-later"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 authors = [
     { name = "Zeynel Batuhan Organ", email = "batuhan.organ@ozu.edu.tr" },
 ]
@@ -17,7 +17,6 @@ classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Science/Research",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -26,7 +25,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "pulp>=2.7",
+    "pulp>=2.7,<4.0",
     "highspy>=1.5",
     "numpy>=1.24",
     "pandas>=2.0",
