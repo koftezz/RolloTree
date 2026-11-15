@@ -119,11 +119,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Added
 - Initial release as `rollo-oct`.
 
-[1.3.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v1.3.0
-[2.1.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v2.1.0
-[2.0.1]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v2.0.1
-[2.0.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v2.0.0
-[1.3.1]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v1.3.1
-[1.2.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v1.2.0
-[1.1.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v1.1.0
-[1.0.0]: https://github.com/koftezz/rolling-lookahead-dt/releases/tag/v1.0.0
+[1.3.0]: https://github.com/koftezz/RolloTree/releases/tag/v1.3.0
+[2.1.0]: https://github.com/koftezz/RolloTree/releases/tag/v2.1.0
+[2.0.1]: https://github.com/koftezz/RolloTree/releases/tag/v2.0.1
+[2.0.0]: https://github.com/koftezz/RolloTree/releases/tag/v2.0.0
+[1.3.1]: https://github.com/koftezz/RolloTree/releases/tag/v1.3.1
+[1.2.0]: https://github.com/koftezz/RolloTree/releases/tag/v1.2.0
+[1.1.0]: https://github.com/koftezz/RolloTree/releases/tag/v1.1.0
+[1.0.0]: https://github.com/koftezz/RolloTree/releases/tag/v1.0.0
