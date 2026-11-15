@@ -29,7 +29,7 @@ Thank you for your interest in contributing to RolloTree.
 
 ## Reporting Issues
 
-Open a GitHub issue at https://github.com/koftezz/rolling-lookahead-dt/issues with:
+Open a GitHub issue at https://github.com/koftezz/RolloTree/issues with:
 - A description of the problem or feature request.
 - Steps to reproduce (for bugs).
 - Python version and OS.
